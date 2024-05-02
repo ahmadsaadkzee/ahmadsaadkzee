@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahmad Saad
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on Web Companies nowadays 
+- 👀 I’m interested in Cyber Security and Artificial Intelligence
+- 🌱 I’m currently GenAI
 - 📫 How to reach me ahmadsaadkz@gmail.com
 
 <!---
